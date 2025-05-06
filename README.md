@@ -8,51 +8,51 @@
 
 - PIP
 
-```
-pip --version
-```
+  ```
+  pip --version
+  ```
 
 - Install Django
 
-```
-pip install django
-```
+  ```
+  pip install django
+  ```
 
 - Create New folder
 
-```
-mkdir New_folder
-```
+  ```
+  mkdir New_folder
+  ```
 
 - Go to folder
 
-```
-cd New_folder
-```
+  ```
+  cd New_folder
+  ```
 
 - Django setup
 
-```
-django-admin startproject project_name
-```
+  ```
+  django-admin startproject project_name
+  ```
 
 - Go to project
 
-```
-cd project_name
-```
+  ```
+  cd project_name
+  ```
 
 - Run server
 
-```
-python manage.py run server
-```
+  ```
+  python manage.py run server
+  ```
 
 - Create APP
 
-```
-python manage.py startapp app_name
-```
+  ```
+  python manage.py startapp app_name
+  ```
 
 - Go to siting.py file and INSTALLED_APPS add app name
 - Go to views file and create function for httpRequest
