@@ -58,3 +58,5 @@
 - Go to views file and create function for httpRequest
 - Then go to urls.py file and import views file and call path
 - Again run server
+
+## Django is a back-end server side web framework. Django makes it easier to build web pages using Python.
